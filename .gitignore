@@ -1,0 +1,11 @@
+# Visual Studio cache
+.vs/
+*.ipch
+*.obj
+*.pch
+*.suo
+*.user
+*.log
+*.tmp
+bin/
+obj/
